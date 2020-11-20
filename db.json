@@ -53,6 +53,33 @@
 "Postcode": "20800"
 },
 "Roles": []
+} ,
+     {
+"userGuid": "c2eb34b5-ec5a-4099-9ac0-dad572107be8",
+"FirstName": "Saman",
+"LastName": "Harry",
+"PreferredName": "Harry",
+"Email": "harrypotter@gmail.com",
+"Enabled": false,
+"MobilePhone": "12345678",
+"EmergencyContactName": "EmergencyContactName",
+"EmergencyPhone": "12345678",
+"AddedOn": "2020-11-18T18:55:19.1855104",
+"AddedBy": 0,
+"ModifiedBy": 0,
+"ModifiedOn": "2020-11-18T18:55:19.1855104",
+"UserType": {
+"UserTypeId": 1,
+"Name": "TypeOne"
+},
+"Address": {
+"AddressId": 17,
+"StreetAddress": "11/4, WSA",
+"City": "LKMSLA",
+"State": "West",
+"Postcode": "22300"
+},
+"Roles": []
 } 
   ]
 }
