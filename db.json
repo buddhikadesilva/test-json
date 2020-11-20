@@ -47,10 +47,10 @@
 },
 "Address": {
 "AddressId": 17,
-"StreetAddress": "StreetAddress",
-"City": "City",
-"State": "State",
-"Postcode": "PostCode"
+"StreetAddress": "14/4, WSA",
+"City": "Salsms",
+"State": "Central",
+"Postcode": "20800"
 },
 "Roles": []
 } 
