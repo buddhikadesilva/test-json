@@ -25,5 +25,34 @@
     "address": "01 Cordelia Street, Southbane 4101",
     "status": "active"
   }
-]
+],
+  "users": [
+  {
+"userGuid": "c2eb34b5-ec5a-4099-9ac0-dad572107be8",
+"firstName": "Dishan",
+"lastName": "Potter",
+"preferredName": "Harry",
+"email": "harrypotter@gmail.com",
+"enabled": true,
+"mobilePhone": "12345678",
+"emergencyContactName": "EmergencyContactName",
+"emergencyPhone": "12345678",
+"addedOn": "2020-11-18T18:55:19.1855104",
+"addedBy": 0,
+"modifiedBy": 0,
+"modifiedOn": "2020-11-18T18:55:19.1855104",
+"userType": {
+"userTypeId": 1,
+"name": "TypeOne"
+},
+"address": {
+"addressId": 17,
+"streetAddress": "StreetAddress",
+"city": "City",
+"state": "State",
+"postcode": "PostCode"
+},
+"roles": []
+} 
+  ]
 }
