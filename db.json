@@ -29,30 +29,30 @@
   "users": [
   {
 "userGuid": "c2eb34b5-ec5a-4099-9ac0-dad572107be8",
-"firstName": "Dishan",
-"lastName": "Potter",
-"preferredName": "Harry",
-"email": "harrypotter@gmail.com",
-"enabled": true,
-"mobilePhone": "12345678",
-"emergencyContactName": "EmergencyContactName",
-"emergencyPhone": "12345678",
-"addedOn": "2020-11-18T18:55:19.1855104",
-"addedBy": 0,
-"modifiedBy": 0,
-"modifiedOn": "2020-11-18T18:55:19.1855104",
-"userType": {
-"userTypeId": 1,
-"name": "TypeOne"
+"FirstName": "Dishan",
+"LastName": "Potter",
+"PreferredName": "Harry",
+"Email": "harrypotter@gmail.com",
+"Enabled": true,
+"MobilePhone": "12345678",
+"EmergencyContactName": "EmergencyContactName",
+"EmergencyPhone": "12345678",
+"AddedOn": "2020-11-18T18:55:19.1855104",
+"AddedBy": 0,
+"ModifiedBy": 0,
+"ModifiedOn": "2020-11-18T18:55:19.1855104",
+"UserType": {
+"UserTypeId": 1,
+"Name": "TypeOne"
 },
-"address": {
-"addressId": 17,
-"streetAddress": "StreetAddress",
-"city": "City",
-"state": "State",
-"postcode": "PostCode"
+"Address": {
+"AddressId": 17,
+"StreetAddress": "StreetAddress",
+"City": "City",
+"State": "State",
+"Postcode": "PostCode"
 },
-"roles": []
+"Roles": []
 } 
   ]
 }
