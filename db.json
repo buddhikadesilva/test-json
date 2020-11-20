@@ -1,0 +1,29 @@
+  
+{
+  "clients": [
+  {
+    "name": "Brown Luke",
+    "address": "01 Cordelia Street, Southbane 4101",
+    "status": "active"
+  },
+  {
+    "name": "Brown Luke",
+    "address": "01 Cordelia Street, Southbane 4101",
+    "status": "inactive"
+  }
+],
+  "employee": [
+  {
+    "name": "Ben Vkiz",
+    "phone_number": "0778786521",
+    "address": "01 Cordelia Street, Southbane 4101",
+    "status": "active"
+  },
+  {
+    "name": "Ben Vkiz",
+    "phone_number": "0778786521",
+    "address": "01 Cordelia Street, Southbane 4101",
+    "status": "active"
+  }
+]
+}
